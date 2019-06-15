@@ -1,0 +1,9 @@
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\bin\Debug\DataGridViewUyg.exe
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\bin\Debug\DataGridViewUyg.pdb
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.Form1.resources
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.Properties.Resources.resources
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.csproj.GenerateResource.Cache
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.exe
+C:\Users\meita\AppData\Local\Temporary Projects\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.pdb
+C:\Users\meita\OneDrive\Masaüstü\odevler\DataGridViewUyg\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.exe
+C:\Users\meita\OneDrive\Masaüstü\odevler\DataGridViewUyg\DataGridViewUyg\obj\x86\Debug\DataGridViewUyg.pdb
