@@ -1,0 +1,7 @@
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\bin\Debug\HareketlıBtn.exe
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\bin\Debug\HareketlıBtn.pdb
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\obj\x86\Debug\HareketlıBtn.csproj.GenerateResource.Cache
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\obj\x86\Debug\HareketlıBtn.exe
+C:\Users\meita\OneDrive\Masaüstü\odevler\HareketliBtn\HareketlıBtn\obj\x86\Debug\HareketlıBtn.pdb
