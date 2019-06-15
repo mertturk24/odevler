@@ -1,0 +1,9 @@
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\bin\Debug\MatrisCarpımı.exe
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\bin\Debug\MatrisCarpımı.pdb
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.Form1.resources
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.Properties.Resources.resources
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.csproj.GenerateResource.Cache
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.exe
+C:\Users\meita\AppData\Local\Temporary Projects\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.pdb
+C:\Users\meita\OneDrive\Masaüstü\odevler\MatrisCarpımı\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.exe
+C:\Users\meita\OneDrive\Masaüstü\odevler\MatrisCarpımı\MatrisCarpımı\obj\x86\Debug\MatrisCarpımı.pdb
